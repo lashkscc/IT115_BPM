@@ -1,7 +1,7 @@
 # IT115_BPM
 
-1. Louis
-2. Charlie 
-3. Kaulu
-4. Luiz
-5. Leo
+1. Louis - @lashkscc
+2. Charlie - @BumbusBumbi 
+3. Kaulu - @kauluka
+4. Luiz - @Alzavio
+5. Leo - TBD
