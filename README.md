@@ -4,4 +4,4 @@ Generating a story piece by piece using https://deepai.org/machine-learning-mode
 2. Charlie - @BumbusBumbi 
 3. Kaulu - @kauluka
 4. Luiz - @Alzavio
-5. Leo - TBD
+5. Leomar - @Ramoel23
